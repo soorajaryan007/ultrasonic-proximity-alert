@@ -58,11 +58,5 @@ A microcontroller-based embedded system using the HC-SR04 ultrasonic sensor and 
 - Smart parking sensors
 - Proximity-based alarms
 
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
-
 Feel free to clone, modify, or contribute to the project!
 
